@@ -1,0 +1,11 @@
+# editor
+.vscode/
+
+# virtual env
+venv/
+
+# python related
+__pycache__/
+
+# docs
+*.pdf
